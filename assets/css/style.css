@@ -16,3 +16,17 @@ html {
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    background-color: #1E1919;
+    height: 100vh;
+}
+
+nav {
+    background-color: white;
+}
